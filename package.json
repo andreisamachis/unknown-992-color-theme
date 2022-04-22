@@ -1,0 +1,40 @@
+{
+    "publisher": "unknown-992",
+    "name": "unknown-992-color-theme",
+    "displayName": "unknown 992's color theme",
+    "description": "An unique dark color theme",
+    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "unknown 992's color theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/unknown-992-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unknown-992/unknown-992-color-theme"
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "dark",
+        "infinium",
+        "weezzy",
+        "unknown",
+        "992",
+        "unknown 992",
+        "unknown-992"
+    ],
+    "author": "Geobert Quach <geobert@protonmail.com>",
+    "license": "MIT"
+}
